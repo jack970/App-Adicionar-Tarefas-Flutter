@@ -3,7 +3,18 @@
 Este projeto foi desenvolvido com Visual Code Studio e o Android Studio(Uso para emular o Android).
 
 Projeto Desenvolvido com Flutter.
-#
+
+1. **Ambientes Instalados:**
+    - Visual Code Studio
+    - Android Studio
+    
+2. **Plugins Utilizados no VSCode:**
+    - [x] Dart
+    - [x] Flutter
+---
+
+### Primeiros Passos
+    
 1.  **Baixar Código**
 
     Para baixar o código pelo terminal:
