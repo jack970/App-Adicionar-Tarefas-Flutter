@@ -1,12 +1,15 @@
-# sampleproject
+# Aplicativo Mobile - Adicionar e Remover Tarefas.
 
-A new Flutter project.
+Este projeto foi desenvolvido com Visual Code Studio e o Android Studio(Uso para emular o Android).
 
-## Getting Started
+Projeto Desenvolvido com Flutter.
+#
+1.  **Baixar Código**
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+    Para baixar o código pelo terminal:
+    ```shell
+      git clone https://github.com/jack970/App-Adicionar-Tarefas-Flutter.git
+    ```
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
