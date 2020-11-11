@@ -63,7 +63,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: buildAppBar(newTaskCtrl),
-      body: Body(),
+      body: Body(items: widget.items),
       floatingActionButton: FloatingActionButton(
         onPressed: add,
         child: Icon(Icons.add),
