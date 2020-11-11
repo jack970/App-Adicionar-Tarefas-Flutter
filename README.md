@@ -49,19 +49,18 @@ Projeto Desenvolvido com Flutter.
 
     Digite no Terminal para ver os emuladores:
     
-    Ex.:
-    ```shell
-    flutter emulator
-    ```
+    Ex.:    ```shell
+            flutter emulator
+            ```
     
 2. **Executar Emulador**
 
     Digite no Terminal para executar:
     
-    Ex:.
-    ```shell
-    flutter emulator --launch Pixel_2_API_27
-    ```
+    
+    Ex:. ```shell
+        flutter emulator --launch Pixel_2_API_27
+        ```
 
 ---
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
